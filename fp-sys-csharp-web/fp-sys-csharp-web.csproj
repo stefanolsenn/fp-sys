@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <RootNamespace>fp_sys_csharp_web</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.fsproj" />
+      <ProjectReference Include="..\csharp-lib\csharp-lib.csproj" />
+    </ItemGroup>
+
+</Project>

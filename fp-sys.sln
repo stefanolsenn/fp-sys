@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fp-sys-csharp-web", "fp-sys-csharp-web\fp-sys-csharp-web.csproj", "{D7E12434-C922-449E-AA94-894B5FEA4308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-lib", "csharp-lib\csharp-lib.csproj", "{46A20F5F-5E86-4409-B345-FA703FC54063}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.fsproj", "{98BA7419-B145-4696-BA9A-DCEC0A3372FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E12434-C922-449E-AA94-894B5FEA4308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E12434-C922-449E-AA94-894B5FEA4308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E12434-C922-449E-AA94-894B5FEA4308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E12434-C922-449E-AA94-894B5FEA4308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A20F5F-5E86-4409-B345-FA703FC54063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A20F5F-5E86-4409-B345-FA703FC54063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A20F5F-5E86-4409-B345-FA703FC54063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A20F5F-5E86-4409-B345-FA703FC54063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BA7419-B145-4696-BA9A-DCEC0A3372FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BA7419-B145-4696-BA9A-DCEC0A3372FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BA7419-B145-4696-BA9A-DCEC0A3372FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BA7419-B145-4696-BA9A-DCEC0A3372FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
